@@ -1,5 +1,5 @@
 /**
- * Dashboard - Script
+ * Dashboard - Scipt
  * All functionalit: page navigation, editable rows, localStorage persistence,
  * stats calculation, student filtering, CSV export.
  */
