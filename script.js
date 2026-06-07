@@ -1,6 +1,6 @@
 /**
  * Dashboard - Scipt
- * All functionalit: page navigation, editable rows, localStorage persistence,
+ * All functionalite navigation, editable rows, localStorage persistence,
  * stats calculation, student filtering, CSV export.
  */
 
