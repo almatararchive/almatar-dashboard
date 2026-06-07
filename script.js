@@ -1,5 +1,5 @@
 /**
- * Dashboard - Scipt
+ * Dashboard -pt
  * All functionalite navigation, editable rows, localStorage persistence,
  * stats calculation, student filtering, CSV export.
  */
