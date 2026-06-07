@@ -1,6 +1,6 @@
 /**
  * Dashboard - Script
- * All functionality: page navigation, editable rows, localStorage persistence,
+ * All functionalit: page navigation, editable rows, localStorage persistence,
  * stats calculation, student filtering, CSV export.
  */
 
